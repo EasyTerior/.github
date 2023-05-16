@@ -1,5 +1,5 @@
 # TEAM 2 - BigBang
-# Project Name : 미정
+# Project Name : Easyterior
 - 팀 빅뱅. 2조 최종 프로젝트
 - 주제 : 셀프 인테리어 고객 경험 혁신 서비스 개발
   1. DCX 방법론에 따라 경험 혁신 서비스 발굴
